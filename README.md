@@ -8,7 +8,7 @@ A data governance project focused on profiling, cleaning, validating, securing, 
 
 
 
-##  Project Overview
+#  Project Overview
 
 This project was developed as part of the **DSAI202 – Data Governance** course.
 
