@@ -6,7 +6,9 @@ A data governance project focused on profiling, cleaning, validating, securing, 
 
  ## **Amar w Ziad w Sakr** 
 
-## 📌 Project Overview
+
+
+##  Project Overview
 
 This project was developed as part of the **DSAI202 – Data Governance** course.
 
